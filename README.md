@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <!-- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a> -->
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">dist_gb</h3>
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 ---
 
 <p align="center"> 
-   Guassian and Binomial Distribution package
+   Guassian and Binomial distribution package
     <br> 
 </p>
 
@@ -112,10 +112,6 @@ Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
