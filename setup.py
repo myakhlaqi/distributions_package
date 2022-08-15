@@ -1,8 +1,8 @@
 from setuptools import setup
 
-setup(name='gabi_distributions_akhlaqi',
+setup(name='dist_gb',
       version='0.2',
       description='Gaussian and Binomial distributions',
-      packages=['gabi_distributions_akhlaqi'],
+      packages=['dist_gb'],
       author= "Mohammad Yahya Akhlaqi",
       zip_safe=False)
