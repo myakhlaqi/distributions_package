@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+dist_gb/test.py
+dist_gb/src/Binomialdistribution.py
+dist_gb/src/Gaussiandistribution.py
+dist_gb/src/Generaldistribution.py
+dist_gb/src/__init__.py
+dist_gb_akhlaqi.egg-info/PKG-INFO
+dist_gb_akhlaqi.egg-info/SOURCES.txt
+dist_gb_akhlaqi.egg-info/dependency_links.txt
+dist_gb_akhlaqi.egg-info/top_level.txt

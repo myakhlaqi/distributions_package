@@ -1,10 +1,11 @@
-setup.py
-dist_gb/Binomialdistribution.py
-dist_gb/Gaussiandistribution.py
-dist_gb/Generaldistribution.py
-dist_gb/__init__.py
+README.md
+pyproject.toml
+dist_gb/test.py
 dist_gb.egg-info/PKG-INFO
 dist_gb.egg-info/SOURCES.txt
 dist_gb.egg-info/dependency_links.txt
-dist_gb.egg-info/not-zip-safe
 dist_gb.egg-info/top_level.txt
+dist_gb/src/Binomialdistribution.py
+dist_gb/src/Gaussiandistribution.py
+dist_gb/src/Generaldistribution.py
+dist_gb/src/__init__.py

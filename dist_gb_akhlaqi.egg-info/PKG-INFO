@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: dist-gb
-Version: 0.0.3
+Name: dist-gb-akhlaqi
+Version: 0.0.4
 Summary: Gaussian and Binomial distributions
 Author-email: Mohammad Yahya Akhlaqi <yahya.akhlaghi@gmail.com>
 Project-URL: Homepage, https://github.com/myakhlaqi/distributions_package
@@ -66,9 +66,9 @@ pip install matplotlib
 ```
 
 ### Installing
-This package is poblicly available in pypi repository. To install from pypi repository run:
+This package is poblicly available in pypi repository (https://pypi.org/project/dist-gb-akhlaqi/). To install from pypi repository run:
 ```
-pip install 
+pip install dist-gb-akhlaqi
 ```
 
 To easy install and use this package follow this commands:

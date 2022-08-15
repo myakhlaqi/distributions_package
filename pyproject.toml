@@ -1,9 +1,21 @@
+# # distribution and uploading to pypi repository
+# # https://packaging.python.org/en/latest/tutorials/packaging-projects/
+# # Generating distribution archives:
+# python3 -m pip install --upgrade build
+# python3 -m build
+
+# Uploading the distribution archives
+# python3 -m twine upload --repository testpypi dist/*
+
+# Installing your newly uploaded package
+# python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps example-package-YOUR-USERNAME-HERE
+
 [build-system]
 requires = ["setuptools"]
 
 [project]
-name = "dist_gb"
-version = "0.0.3"
+name = "dist_gb_akhlaqi"
+version = "0.0.4"
 authors = [
   { name="Mohammad Yahya Akhlaqi", email="yahya.akhlaghi@gmail.com" },
 ]
@@ -20,3 +32,4 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/myakhlaqi/distributions_package"
 "Bug Tracker" = "https://github.com/myakhlaqi/distributions_package/issues"
+

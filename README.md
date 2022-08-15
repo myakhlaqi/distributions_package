@@ -53,9 +53,9 @@ pip install matplotlib
 ```
 
 ### Installing
-This package is poblicly available in pypi repository. To install from pypi repository run:
+This package is poblicly available in pypi repository (https://pypi.org/project/dist-gb-akhlaqi/). To install from pypi repository run:
 ```
-pip install 
+pip install dist-gb-akhlaqi
 ```
 
 To easy install and use this package follow this commands:
