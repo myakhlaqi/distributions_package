@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools"]
+
+[project]
+name = "dist_gb"
+version = "0.0.3"
+authors = [
+  { name="Mohammad Yahya Akhlaqi", email="yahya.akhlaghi@gmail.com" },
+]
+description = "Gaussian and Binomial distributions"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/myakhlaqi/distributions_package"
+"Bug Tracker" = "https://github.com/myakhlaqi/distributions_package/issues"
