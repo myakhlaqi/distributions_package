@@ -3,7 +3,7 @@ import math
 import matplotlib.pyplot as plt
 from .Generaldistribution import Distribution
 
-# TODO: make a Binomial class that inherits from the Distribution class. Use the specifications below.
+
 class Binomial(Distribution):
     """ Binomial distribution class for calculating and
     visualizing a Binomial distribution.
