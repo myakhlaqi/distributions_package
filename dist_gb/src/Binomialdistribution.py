@@ -29,7 +29,7 @@ class Binomial(Distribution):
         Distribution.__init__(self, p * n, math.sqrt(n * p * (1 - p)))
         self.p = p
         self.n = n
-        # TODO: store the probability of the distribution in an instance variable p
+        
         # TODO: store the size of the distribution in an instance variable n
 
         # TODO: Now that you know p and n, you can calculate the mean and standard deviation
