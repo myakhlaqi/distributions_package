@@ -24,7 +24,7 @@ class Binomial(Distribution):
     #       You can then calculate the mean and standard deviation with the following formula:
     #           mean = p * n
     #           standard deviation = sqrt(n * p * (1 - p))
-    # TODO: define the init function
+    
     def __init__(self, p, n):
         Distribution.__init__(self, p * n, math.sqrt(n * p * (1 - p)))
         self.p = p
