@@ -30,7 +30,7 @@ class Binomial(Distribution):
         self.p = p
         self.n = n
         
-        # TODO: 
+        
         # TODO: Now that you know p and n, you can calculate the mean and standard deviation
         #       You can use the calculate_mean() and calculate_stdev() methods defined below along with the __init__ function from the Distribution class
 
