@@ -49,7 +49,7 @@ class Binomial(Distribution):
         self.stdev = math.sqrt(self.n * self.p * (1 - self.p))
         return self.mean
 
-    # TODO: write a calculate_stdev() method accordin to the specifications below.
+    # TODO:write a calculate_stdev() method accordin to the specifications below.
     def calculate_stdev(self):
         """Function to calculate the standard deviation from p and n.
 
