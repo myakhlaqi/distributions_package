@@ -32,7 +32,7 @@ class Binomial(Distribution):
         
         #       You can use the calculate_mean() and calculate_stdev() methods defined below along with the __init__ function from the Distribution class
 
-    # TODO: write a method calculate_mean() according to the specifications below
+    # TODO: 
     def calculate_mean(self):
         """Function to calculate the mean from p and n
 
