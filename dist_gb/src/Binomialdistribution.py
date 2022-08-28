@@ -93,7 +93,7 @@ class Binomial(Distribution):
         self.p = self.data.count(1)/self.n
         return (self.p, self.n)
 
-    # TODO: write a method plot_bar() that outputs a bar chart of the data set according to the following specifications.
+    # TODO: 
     def plot_bar(self):
         """Function to output a histogram of the instance variable data using
         matplotlib pyplot library.
