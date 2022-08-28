@@ -124,8 +124,6 @@ class Binomial(Distribution):
                      math.factorial(self.n - k)))*(self.p ** k * (1 - self.p) ** (self.n - k))
         return pdf_value
 
-    # write a method to plot the probability density function of the binomial distribution
-
     def plot_histogram_pdf(self, n_spaces=50):
         """Function to plot the pdf of the binomial distribution
         Args:
