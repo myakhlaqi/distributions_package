@@ -61,7 +61,7 @@ class Binomial(Distribution):
         self.stdev = math.sqrt(self.n * self.p * (1 - self.p))
         return self.stdev
 
-    # TODO: write a replace_stats_with_data() method according to the specifications below. The read_data_file() from the Generaldistribution class can read in a data
+    # TODO: 
     # file. Because the Binomaildistribution class inherits from the Generaldistribution class,
     # you don't need to re-write this method. However,  the method
     # doesn't update the mean or standard deviation of
