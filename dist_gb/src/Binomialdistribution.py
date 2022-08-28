@@ -213,7 +213,7 @@ class Binomial(Distribution):
         return 'mean {0;d}, standard deviation {1:.2f}, p {2:.2f}, n {3:d}'.format(
             self.mean, self.stdev, self.p, self.n
         )
-        # TODO: Define the representation method so that the output looks like
+        # TODO: 
         #       mean 5, standard deviation 4.5, p .8, n 20
         #
         #       with the values replaced by whatever the actual distributions values are
