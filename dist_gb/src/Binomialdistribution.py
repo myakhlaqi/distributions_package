@@ -60,7 +60,7 @@ class Binomial(Distribution):
         self.stdev = math.sqrt(self.n * self.p * (1 - self.p))
         return self.stdev
 
-    # TODO: 
+    
     # file. Because the Binomaildistribution class inherits from the Generaldistribution class,
     # you don't need to re-write this method. However,  the method
     # doesn't update the mean or standard deviation of
