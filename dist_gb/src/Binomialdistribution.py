@@ -63,7 +63,6 @@ class Binomial(Distribution):
     # standard deviation from a data set and then updates the n, p, mean and stdev attributes.
     # Assume that the data is a list of zeros and ones like [0 1 0 1 1 0 1].
     #
-    #       Write code that:
     #           updates the n attribute of the binomial distribution
     #           updates the p value of the binomial distribution by calculating the
     #               number of positive trials divided by the total trials
