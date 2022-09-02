@@ -60,8 +60,6 @@ class Binomial(Distribution):
         self.stdev = math.sqrt(self.n * self.p * (1 - self.p))
         return self.stdev
 
-
-    # doesn't update the mean or standard deviation of
     # a distribution. Hence you are going to write a method that calculates n, p, mean and
     # standard deviation from a data set and then updates the n, p, mean and stdev attributes.
     # Assume that the data is a list of zeros and ones like [0 1 0 1 1 0 1].
