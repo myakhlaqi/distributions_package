@@ -149,7 +149,7 @@ class Binomial(Distribution):
         plt.show()
         return x, y
 
-      # TODO: Use a bar chart to plot the probability density function from
+      # TODO: 
       # k = 0 to k = n
 
       #   Hint: You'll need to use the pdf() method defined above to calculate the
