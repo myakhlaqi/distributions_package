@@ -102,7 +102,7 @@ class Binomial(Distribution):
         plt.xlabel('data')
         plt.ylabel('count')
 
-    # TODO: 
+
     def pdf(self, k):
         """Probability density function calculator for the binomial distribution.
 
