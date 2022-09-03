@@ -69,7 +69,6 @@ class Binomial(Distribution):
     #           updates the mean attribute
     #           updates the standard deviation attribute
     #
-    #       Hint: You can use the calculate_mean() and calculate_stdev() methods
     #           defined previously.
     def replace_stats_with_data(self):
         """Function to calculate p and n from the data set. The function updates the p and n variables of the object.
