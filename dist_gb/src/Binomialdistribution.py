@@ -61,7 +61,6 @@ class Binomial(Distribution):
         return self.stdev
 
     
-    # Assume that the data is a list of zeros and ones like [0 1 0 1 1 0 1].
     #
     #           updates the n attribute of the binomial distribution
     #           updates the p value of the binomial distribution by calculating the
