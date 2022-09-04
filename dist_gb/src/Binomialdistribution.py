@@ -143,7 +143,6 @@ class Binomial(Distribution):
         plt.show()
         return x, y
 
-      # TODO: 
       # k = 0 to k = n
 
       #   Hint: You'll need to use the pdf() method defined above to calculate the
