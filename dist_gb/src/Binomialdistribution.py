@@ -60,8 +60,6 @@ class Binomial(Distribution):
         self.stdev = math.sqrt(self.n * self.p * (1 - self.p))
         return self.stdev
 
-    
-    #
     #           updates the n attribute of the binomial distribution
     #           updates the p value of the binomial distribution by calculating the
     #               number of positive trials divided by the total trials
