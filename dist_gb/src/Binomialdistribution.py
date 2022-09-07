@@ -59,7 +59,7 @@ class Binomial(Distribution):
         self.stdev = math.sqrt(self.n * self.p * (1 - self.p))
         return self.stdev
 
-    #               number of positive trials divided by the total trials
+
     #           updates the mean attribute
     #           updates the standard deviation attribute
     #
