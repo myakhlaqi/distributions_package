@@ -60,7 +60,7 @@ class Binomial(Distribution):
         return self.stdev
 
 
-    #           updates the mean attribute
+    #           
     #           updates the standard deviation attribute
     #
     #           defined previously.
