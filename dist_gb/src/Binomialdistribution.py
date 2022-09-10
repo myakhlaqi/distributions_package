@@ -61,7 +61,7 @@ class Binomial(Distribution):
 
 
     #           
-    #           updates the standard deviation attribute
+
     #
     #           defined previously.
     def replace_stats_with_data(self):
