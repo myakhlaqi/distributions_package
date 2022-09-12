@@ -172,7 +172,6 @@ class Binomial(Distribution):
         except AssertionError as error:
             raise
 
-        # TODO: Define addition for two binomial distributions. Assume that the
         # p values of the two distributions are the same. The formula for
         # summing two binomial distributions with different p values is more complicated,
         # so you are only expected to implement the case for two distributions with equal p.
