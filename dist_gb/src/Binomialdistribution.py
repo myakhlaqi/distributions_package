@@ -144,7 +144,6 @@ class Binomial(Distribution):
 
       # k = 0 to k = n
 
-
       #   density function for every value of k.
 
       #   Be sure to label the bar chart with a title, x label and y label
