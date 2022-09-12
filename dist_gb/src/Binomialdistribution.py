@@ -30,7 +30,6 @@ class Binomial(Distribution):
         self.n = n
         
 
-
     def calculate_mean(self):
         """Function to calculate the mean from p and n
 
