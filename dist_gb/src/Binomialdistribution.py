@@ -13,7 +13,7 @@ class Binomial(Distribution):
         p (float) representing the probability of an event occurring
 
     """
-    #       A binomial distribution is defined by two variables:
+    
     #           the probability of getting a positive outcome
     #           the number of trials
 
