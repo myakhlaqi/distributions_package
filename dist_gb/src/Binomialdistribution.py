@@ -58,9 +58,6 @@ class Binomial(Distribution):
         self.stdev = math.sqrt(self.n * self.p * (1 - self.p))
         return self.stdev
 
-
-
-
     #
     #           defined previously.
     def replace_stats_with_data(self):
