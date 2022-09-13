@@ -59,7 +59,7 @@ class Binomial(Distribution):
         return self.stdev
 
 
-    #           
+
 
     #
     #           defined previously.
