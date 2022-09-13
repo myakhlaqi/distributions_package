@@ -148,7 +148,7 @@ class Binomial(Distribution):
       #   Be sure to label the bar chart with a title, x label and y label
 
       #   This method should also return the x and y values used to make the chart
-      #   The x and y values should be stored in separate lists
+      
 
     # write a method to output the sum of two binomial distributions. Assume both distributions have the same p value.
     def __add__(self, other):
