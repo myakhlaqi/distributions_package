@@ -14,7 +14,6 @@ class Binomial(Distribution):
 
     """
     
-    #           the number of trials
 
     #       If you know these two values, you can calculate the mean and the standard deviation
     #
