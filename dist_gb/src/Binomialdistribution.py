@@ -14,7 +14,7 @@ class Binomial(Distribution):
 
     """
 
-    
+
     #
     #       For example, if you flip a fair coin 25 times, p = 0.5 and n = 25
     #       You can then calculate the mean and standard deviation with the following formula:
