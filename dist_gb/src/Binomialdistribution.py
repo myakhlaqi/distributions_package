@@ -13,7 +13,6 @@ class Binomial(Distribution):
         p (float) representing the probability of an event occurring
 
     """
-    
 
     
     #
