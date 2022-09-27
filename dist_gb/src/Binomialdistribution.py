@@ -132,7 +132,7 @@ class Binomial(Distribution):
         axes[0].set_ylabel('Density')
         plt.show()
         return x, y
-      # k = 1 to 
+      # 
 
 
 
