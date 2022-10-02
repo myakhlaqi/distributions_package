@@ -135,7 +135,7 @@ class Binomial(Distribution):
 
 
 
-      #   Be sure to label the bar chart with a title, x 
+      #   Be sure to label the bar chart with a 
 
       #   This method should also return the x and y values used to make the chart
       
