@@ -162,7 +162,7 @@ class Binomial(Distribution):
             raise
 
         # 
-        # summing two binomial distributions with different p values is more complicated,
+        # summing two binomial distributions with different p values 
         # so you are only expected to implement the case for two distributions with equal p.
 
         # the try, except statement above will raise an exception if the p values are not equal
