@@ -52,7 +52,6 @@ class Binomial(Distribution):
         self.stdev = math.sqrt(self.n * self.p * (1 - self.p))
         return self.stdev
 
-    
     #          
     def replace_stats_with_data(self):
         """Function to calculate p and n from the data set. The function updates the p and n variables of the object.
