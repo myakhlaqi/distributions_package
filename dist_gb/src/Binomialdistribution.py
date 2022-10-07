@@ -157,7 +157,7 @@ class Binomial(Distribution):
         except AssertionError as error:
             raise
 
-        # 
+
         # summing two binomial distributions with different p values 
         # so you are only expected to implement the case for two distributions with equal p.
 
