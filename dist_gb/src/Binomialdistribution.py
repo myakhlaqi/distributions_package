@@ -132,7 +132,6 @@ class Binomial(Distribution):
         return x, y
 
 
-
       #   Be sure to label the bar chart with a 
 
       #   This method should also return the x and y values used to make the chart
