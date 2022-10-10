@@ -131,7 +131,7 @@ class Binomial(Distribution):
         plt.show()
         return x, y
 
-      #   Be sure 
+      #   
 
       #   This method should also return the x and y values used to make the chart
       
