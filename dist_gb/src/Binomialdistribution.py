@@ -159,7 +159,7 @@ class Binomial(Distribution):
 
 
 
-        # so you are only expected to implement the case for two distributions
+        # so you are only expected to implement the case 
 
         # the try, except statement above will raise an exception if the p values are not equal
 
