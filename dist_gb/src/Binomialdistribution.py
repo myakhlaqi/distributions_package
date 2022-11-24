@@ -132,7 +132,7 @@ class Binomial(Distribution):
         return x, y
 
 
-      #   This method should also return the x and y values used to make the chart
+      #   This method should also return the x and y values used to make the 
       
 
     # write a method to output the sum of two binomial distributions. Assume both distributions have the same p value.
